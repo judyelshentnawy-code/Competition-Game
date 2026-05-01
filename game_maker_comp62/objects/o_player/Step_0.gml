@@ -1,17 +1,17 @@
 
 //movement stuff
 xsp = 0
-ysp = 2
+ysp = 5
 
 if keyboard_check(vk_right){ // moving right
 	
-	xsp +=1
+	xsp +=5
 	
 }
 
 if keyboard_check(vk_left){ // moving left
 	
-	xsp -=1
+	xsp -=5
 	
 }
 
