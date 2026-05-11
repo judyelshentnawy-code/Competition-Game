@@ -1,2 +1,2 @@
-xsp = 0
-ysp = 0
+health = 100;
+max_health = 100;
