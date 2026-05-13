@@ -19,8 +19,10 @@
   "ResourceOrderSettings":[
     {"name":"o_barrier","order":2,"path":"objects/o_barrier/o_barrier.yy",},
     {"name":"o_obstacle","order":1,"path":"objects/o_obstacle/o_obstacle.yy",},
+    {"name":"obj_bird","order":3,"path":"objects/obj_bird/obj_bird.yy",},
     {"name":"s_barrier","order":2,"path":"sprites/s_barrier/s_barrier.yy",},
     {"name":"s_bg","order":3,"path":"sprites/s_bg/s_bg.yy",},
     {"name":"s_obstacle","order":1,"path":"sprites/s_obstacle/s_obstacle.yy",},
+    {"name":"spr_bird","order":5,"path":"sprites/spr_bird/spr_bird.yy",},
   ],
 }

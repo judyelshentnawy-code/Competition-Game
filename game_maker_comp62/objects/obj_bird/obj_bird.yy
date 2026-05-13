@@ -1,14 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"o_player",
+  "%Name":"obj_bird",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"o_obstacle","path":"objects/o_obstacle/o_obstacle.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"o_player",
+  "name":"obj_bird",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -33,12 +30,12 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"s_player",
-    "path":"sprites/s_player/s_player.yy",
+    "name":"spr_bird",
+    "path":"sprites/spr_bird/spr_bird.yy",
   },
   "spriteMaskId":{
-    "name":"s_player",
-    "path":"sprites/s_player/s_player.yy",
+    "name":"spr_bird",
+    "path":"sprites/spr_bird/spr_bird.yy",
   },
   "visible":true,
 }
